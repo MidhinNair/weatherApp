@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5651472c-3dac-4925-be60-f26c7812d988)
+
 # weatherApp
 The Weather App is a simple web application that fetches and displays weather information for a specified location. 
 
