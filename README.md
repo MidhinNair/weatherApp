@@ -52,3 +52,4 @@ Replace YOUR_API_KEY with your actual API key and LOCATION with the desired loca
 
 Conclusion
 This Weather App is a simple and effective way to fetch and display weather information for different locations. It demonstrates the use of HTML, CSS, and JavaScript to create a functional web application.
+![Screenshot 2024-11-07 144645](https://github.com/user-attachments/assets/8f5c60af-406f-47d2-b5a9-a38e49b86aa8)
