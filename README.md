@@ -50,6 +50,7 @@ API
 The app uses the WeatherAPI to fetch weather data. The API endpoint used is:
 http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=LOCATION&aqi=yes
 1 vulnerability
+https://www.weatherapi.com/api-explorer.aspx
 Replace YOUR_API_KEY with your actual API key and LOCATION with the desired location.
 
 Conclusion
